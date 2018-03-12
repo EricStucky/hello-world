@@ -1,5 +1,9 @@
 # hello-world
+Standard Introduction Stuff
 
-Nope, I know better than you.
+I'm bad at coding and also other things
 
-Try again, fool.
+Let's see how this works, shall we?
+
+-eric
+

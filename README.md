@@ -1,2 +1,5 @@
 # hello-world
-Standard Introduction Stuff
+
+Nope, I know better than you.
+
+Try again, fool.
